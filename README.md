@@ -7,6 +7,6 @@ The execuable file is under the Release folder.
 由VS2013创建。
 可执行文件在Release文件夹下。
 
-第一次GitHub……
+第一次GitHub……不懂什么许可证的，先放着……Anyway这只是个小小的测试
 
 
